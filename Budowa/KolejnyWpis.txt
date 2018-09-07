@@ -1,3 +1,4 @@
 Treść kolejnego wpisu
 Treść edytowanego wpisu
-12345
+12345.
+Test.
